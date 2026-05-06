@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+    font-family: Arial;
+    background: #111;
+    color: white;
+}
+
+h1 {
+    color: cyan;
+}
+
+#status {
+    font-size: 30px;
+}
